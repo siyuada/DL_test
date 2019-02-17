@@ -6,7 +6,7 @@ from torch import nn
 from torch.autograd import Variable as V
 import numpy as np
 
-print("gaibiangaibianforgithub")
+# print("gaibiangaibianforgithub")
 
 to_tensor = ToTensor()  # img -> tensor
 to_pil = ToPILImage
